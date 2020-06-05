@@ -15,7 +15,7 @@ def gerador():
         
 Presearch = Firefox()
 
-Presearch.get('https://www.presearch.org/')
+Presearch.get(url)
 
 sleep(5)
 
